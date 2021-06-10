@@ -16,6 +16,9 @@ set cursorline
 "set command history 
 set history=2000
 
+"Enable mouse scrolling and selection
+set mouse=a
+
 "show statusbar
 set laststatus=2
 
