@@ -10,6 +10,9 @@ imap jj <ESC>
 "set no vi Compatible mode
 set nocompatible
 
+"set no wrap
+set nowrap
+
 "set cursor line
 set cursorline
 
