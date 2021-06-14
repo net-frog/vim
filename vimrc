@@ -28,6 +28,9 @@ set laststatus=2
 "show command options on statusbar
 set wildmenu
 
+"enable autoindent
+set autoindent
+
 "set colorscheme
 colorscheme desert
 
