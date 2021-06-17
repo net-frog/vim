@@ -1,10 +1,24 @@
-"set line number
-set number
+syntax on
 
-"set relative number
+set smartindent
+
+
+"set back and swapfiles
+set noswapfile
+set nobackup
+
+set noerrorbells
+
+"set line numbers
+set number
 set relativenumber
 
-"set ESc to jj
+"set search options
+set smartcase
+set incsearch
+
+
+"set keyboard
 imap jj <ESC>
 
 "set no vi Compatible mode
