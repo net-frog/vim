@@ -49,7 +49,7 @@ set wildmenu
 "enable autoindent
 set autoindent
 
-call plug#begin('~/.vim/plugged')
+call plug#begin('~/.config/nvim/plugged')
 "Plug 'morhetz/gruvbox'
 Plug 'gruvbox-community/gruvbox'
 call plug#end()
